@@ -1,0 +1,24 @@
+The Metric,Indicators,What They Measure,Sources
+Food Nutrient Adequacy,Non-Staple Food Energy,Nutrients From Non-Staple Food,FAOs Food Balance Sheets
+,Shannon Diversity,Nutrient Diversity in The Food System,FAOs Food Balance Sheets
+,Modified Functional Attribute Diversity,Nutrient Diversity in The Food System,FAOs Food Balance Sheets
+,Nutrient Density Score,Nutrient Diversity in The Food System,FAOs Food Balance Sheets
+,Population Share With Adequate Nutrients,Proportion of Population With Adequate Nutrients,FAOSTATS
+Ecosystem Stability,Ecosystem Status,Ecosystem Status,Yale Center for Environmental Law and Policy
+,GHG Emissions,Eco-Efficiency,United Nations Framework Convention on Climate Change
+,Net FreshWater Withdrawals,Eco-Efficiency,"Data Collections, NASA"
+,Energy Use,Eco-Efficiency,"Data Collections, NASA"
+,Land Use,Eco-Efficiency,"Data Collections, NASA"
+Food Affordability & Availability,Income Equality,Food Availability & Affordability,Global Food Security Index (GFSI)
+,Poverty Index,Food Availability & Affordability,Global Food Security Index (GFSI)
+,GFSI Food Availability Score,Food Availability & Affordability,"United Nations, 2021"
+,Food Affordability,Food Availability & Affordability,"United Nations, 2021"
+Socialcultural Wellbeing,Animal Health & Welfare,Gender Equality,Global Gender Gap Report 2020
+,Community Rights,Extent of Child Labor,"ILO, 2020"
+, Child Labor,Respect for Community Rights,Environmental Democracy Index
+,Gender Equity,Animal Health & Welfare,Not Measured (Insufficient Data)
+Resilience,Food Production Diversity,Nation's Vulnerability to Climate Change,Notre Dame Global Adaptation Initiative
+,ND-GAIN Country Index,Shares of Agricultural Food Production in The Country,FAOSTAT
+Food Safety,GFSI Safety Score,Food Borne Disease Burden,World Health Organisation (WHO)
+,Foodborne Disease Burden,GFSI Food Safety,Global Food Security Index (GFSI)
+Waste & Loss Reduction,Pre & Post-Consumer Food Loss,Later,Later

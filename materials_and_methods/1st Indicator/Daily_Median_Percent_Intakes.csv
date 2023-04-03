@@ -1,0 +1,26 @@
+Income group,Staple Foods,Percent,Non-Staple Foods,Percent
+Low Income,Cereals,54.6,Roots & Tubers,13.2
+,,,"Seeds, Nuts, and Oils",12.3
+,,,"Meat, Milk and products & Eggs",6.8
+,,,Vegetables,5.3
+,,,Starch & Sugars,4.3
+,,,Fruits & Plantains,3.5
+,,,Infant Food,0
+Lower Middle Income,Cereals,52.1,"Meat, Milk and products & Eggs",12.9
+,,,"Seeds, Nuts, and Oils",12.2
+,,,Starchs & Sugars,8.6
+,,,Vegetables,5.7
+,,,Roots & Tubers,4.7
+,,,Fruits & Plantains,3.7
+,,,Infant Food,0
+Upper Middle Income,Cereals,40.6,"Seeds, Nuts, and Oils",13.9
+,,,Starchs & Sugars,12.2
+,,,Vegetables,5
+,"Meat, Milk and products & Eggs",20.7,Fruits & Plantains,4.3
+,,,Roots & Tubers,3.3
+,,,Infant Food,0.1
+High Income,Cereals,31.9,Starchs & Sugars,11.5
+,,,Fruits & Plantains,4.1
+,"Meat, Milk and products & Eggs",30.3,Vegetables,3.9
+,"Seeds, Nuts, and Oils",15.4,Roots & Tubers,2.8
+,,,Infant Food,0.1
